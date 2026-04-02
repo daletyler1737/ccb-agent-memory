@@ -1,0 +1,10 @@
+{
+  "name": "ccb-agent-memory",
+  "version": "1.0.0",
+  "description": "Agent memory snapshot system - capture, resume, diff agent conversations",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "agent-memory"],
+  "license": "MIT"
+}
